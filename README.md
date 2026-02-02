@@ -1,4 +1,4 @@
-# Hi, I'm Bahram Azizi! 👋
+# Hi, I'm Bahram Azizi!
 
 **Software HOD @TTRA | MSC | Data Scientist - Software Engineer**  
 Kabul, Afghanistan 🇦🇫
