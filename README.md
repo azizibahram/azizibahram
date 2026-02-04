@@ -63,30 +63,6 @@ Managed IT operations, network infrastructure, database systems, and coordinated
 
 ---
 
-## 📜 Certifications
-
-- Tools for Data Science
-- Data Science Methodology
-- Python Project for Data Science
-- What is Data Science?
-- Python for Data Science, AI & Development
-
----
-
-## 🌐 Languages
-
-| Language | Proficiency |
-|----------|-------------|
-| 🇦🇫 Persian | Native/Bilingual |
-| 🇺🇿 Uzbek | Native/Bilingual |
-| 🇵🇰 Pashto | Professional Working |
-| 🇬🇧 English | Professional Working |
-| 🇵🇰 Urdu | Limited Working |
-| 🇷🇺 Russian | Elementary |
-| 🇸🇦 Arabic | Elementary |
-
----
-
 ## 📚 Publications
 
 **Modeling Educational Data in Afghanistan Using Machine Learning Methods**
